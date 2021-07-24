@@ -6,6 +6,9 @@ body {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.top-text{
+    padding-top: 6%;
+}
 .color-orange{
     color: orange;
 }
